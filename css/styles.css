@@ -1,0 +1,48 @@
+html,body{
+    font-family: 'Heebo', sans-serif;
+}
+#main_h1{
+    font-family: 'Heebo';
+font-style: normal;
+font-weight: 700;
+font-size: 44px;
+line-height: 60px;
+}
+.blog-item h3{
+    font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 44px;
+
+/* Dark Color */
+
+color: #21243D;
+}
+.blog-item p{
+    
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+}
+.blog-item  .date{
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 29px;
+    
+}
+.blog-item  .type{
+    font-family: 'Heebo';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 29px;
+
+/* Light */
+
+color: #8695A4;
+
+}
